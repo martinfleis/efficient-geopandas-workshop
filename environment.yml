@@ -8,3 +8,6 @@ dependencies:
   - shapely>=2
   - pyogrio
   - pyarrow
+  - pip
+  - pip:
+      - geodatasets
