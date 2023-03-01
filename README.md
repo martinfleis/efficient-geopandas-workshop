@@ -64,3 +64,7 @@ Start a jupyter notebook server by typing
 ```sh
 jupyter lab
 ```
+
+---
+Data used in the workshop:
+- `sales.csv/parquet` - https://geodacenter.github.io/data-and-lab//KingCounty-HouseSales2015/
