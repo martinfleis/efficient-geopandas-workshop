@@ -68,3 +68,4 @@ jupyter lab
 ---
 Data used in the workshop:
 - `sales.csv/parquet` - https://geodacenter.github.io/data-and-lab//KingCounty-HouseSales2015/
+- `food_establishments.gpkg` - derived from https://data.kingcounty.gov/Health-Wellness/Food-Establishment-Inspection-Data/f29f-zza5
