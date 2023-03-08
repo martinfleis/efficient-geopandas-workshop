@@ -1,4 +1,4 @@
-# Writing an efficient code for GeoPandas and Shapely in 2023
+# Writing efficient code for GeoPandas and Shapely in 2023
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/martinfleis/efficient-geopandas-workshop/main?urlpath=lab/)
 
