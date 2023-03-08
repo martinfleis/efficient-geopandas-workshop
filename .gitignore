@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/sales.gpkg
+data/sales_geo.parquet
